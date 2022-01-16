@@ -1,2 +1,2 @@
-# Exoplanet-Research
-This builds a automatic system of identifyiing exoplanet
+# ExoSearcher
+This project builds a automatic system of identifyiing exoplanet
