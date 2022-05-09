@@ -6,6 +6,7 @@ import os
 import shutil
 from astropy.io import fits
 import numpy as np
+import torch
 
 #Documentations below specific functions
 
